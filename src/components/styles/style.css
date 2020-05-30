@@ -21,6 +21,17 @@ body {
 .ant-card-meta {
   margin: 10px 0;
 }
+.row-img {
+  width: 30px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.info-logo {
+  margin-right: 8px;
+}
+.tagsTitle {
+  margin-bottom: 10px;
+}
 .ant-card-meta-avatar {
   padding-right: 7px;
 }
@@ -32,6 +43,7 @@ body {
 .logo-wrapper {
   list-style: none;
   display: flex;
+  margin: 0;
 }
 .logo-wrapper li {
   display: inline-block;
